@@ -3,7 +3,8 @@ Slides en voorbeeldcode bij de training Angular Advanced - Ilionx, voorjaar 2020
 
 ## Links
 - Repository met voorbeeldcode: https://github.com/PeterKassenaar/AngularAdvanced
-- ...
+- Animated view met de wijze hoe verschillende RxJS operators werken: https://medium.com/angular-in-depth/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511
+
 
 
 ## Links uit de Fundamentals-training (feb/maart 2020)
