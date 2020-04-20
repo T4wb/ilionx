@@ -1,0 +1,12 @@
+<ul class="list-group">
+  <li class="list-group-item"
+      (click)="updateTodo(todo)"
+      *ngFor="let todo of todo$ | async">
+      <span [ngClass]="{'todo-done': todo.done}">
+        {{ todo.id }} - {{ todo.name}}
+      </span>
+    &nbsp;
+    <input type="checkbox"
+           [checked]="todo.done">
+  </li>
+</ul>
