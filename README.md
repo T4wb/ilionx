@@ -9,7 +9,7 @@ Slides en voorbeeldcode bij de training Angular Advanced - Ilionx, voorjaar 2020
 - Animated view met de wijze hoe verschillende RxJS operators werken: https://medium.com/angular-in-depth/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511.
 
 - Deploying `single-spa` applications: https://single-spa.js.org/docs/recommended-setup/#deployment-and-continuous-integration-ci.
-
+- Bekijk deze video (!) als je meer wilt weten over gezamenlijke data|objecten|autorizaties op het `window`object, zoals toegelicht in de whiteboard-tekening. Gebruik `windows.dispatchEvent()` en `window.addEventListener()` om custom events te schrijven die de gemeenschappelijke 'store' (al is het geen echte redux-store) bijwerken: https://www.youtube.com/watch?v=wU06eTMQ6yI.
 
 
 ## Links uit de Fundamentals-training (feb/maart 2020)
